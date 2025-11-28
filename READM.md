@@ -1,7 +1,7 @@
 ﻿# Mi proyecto Ejemplo <!-- # para colocar un titulo -->
 Este proyecto se genero para implementar una pagina con html y css y repositorio en github <!-- Descripcion corta del repositorio -->
 
-##Contenido del repositorio <!--subtitulo del readme-->
+## Contenido del repositorio <!--subtitulo del readme-->
 - index.html 
 - style.css
 
@@ -28,6 +28,7 @@ Las contribuciones osn bienvenidas, si desea participar
 Este proyecto esta bajo la licencia en MIT
 
 ## Seccion repo remoto
+
 
 
 
